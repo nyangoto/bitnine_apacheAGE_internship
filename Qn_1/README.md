@@ -1,5 +1,4 @@
-
-# Project Name
+# Question 2
 
 Node is defined as follows
 
@@ -18,6 +17,7 @@ The fibonacci function should be implemented using Dynamic Programming.
 ## Development Environment
 
 - Programming Language: C
+- [header file](./fib2.h) contains the relevant library inclusions, tydef structures and function prototypes.
 - Compiler: GCC (GNU Compiler Collection)
 - Operating System: Linux(Debian) or Windows with [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install) installed.
 

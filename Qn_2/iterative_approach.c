@@ -1,3 +1,12 @@
+/**
+  * F_iterative - Calculate the Fibonacci sequence up to the nth term using an iterative approach.
+  *
+  * @n: The index of the desired Fibonacci number.
+  * 
+  * Description: This function calculates the Fibonacci sequence up to the nth term using an iterative approach.
+  * 
+  * Return: nth Fibonacci number.
+  */
 int F_iterative(int n)
 {
     if (n == 0)
